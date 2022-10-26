@@ -98,6 +98,7 @@ docs[0].SaveToFile("MergeDocuments.pdf");
 
 
 public class SquashPractce
-{ 
-
+{
+    public int MyProperty { get; set; }
+    public int MyProperty { get; set; }
 }
